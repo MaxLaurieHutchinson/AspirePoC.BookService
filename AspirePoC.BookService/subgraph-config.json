@@ -1,0 +1,7 @@
+{
+  "subgraph": "aspirepoc-bookservice",
+  "http": {
+    "baseAddress": "http://localhost:6095/graphql",
+    "clientName": "http"
+  }
+}
